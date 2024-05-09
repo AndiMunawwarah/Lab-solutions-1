@@ -1,0 +1,7 @@
+export INSTANCE_NAME=
+
+export ZONE=
+
+export PORT=
+
+export FIREWALL_NAME=
